@@ -1,0 +1,11 @@
+*.h
+*.o
+*.cxx
+*.pyc
+*~
+*.C
+*.d
+*.so
+*.root
+*.pdf
+*.txt
